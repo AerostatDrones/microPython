@@ -14,3 +14,5 @@ HCSR04 from https://github.com/lemariva/uPySensors
 This is experimental version, users may find bugs.
 
 For usage and examples refer above links.
+
+Need to add umatrix, ulinalg, imu, uasyncio
